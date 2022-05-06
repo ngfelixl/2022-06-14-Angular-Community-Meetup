@@ -1,0 +1,26 @@
+:host {
+  display: block;
+  margin-bottom: 12px;
+  overflow: hidden;
+}
+
+button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  margin-right: 4px;
+  transition: 0.3s;
+  font-size: 17px;
+  color: white;
+}
+
+button:hover {
+  background-color: #555;
+}
+
+button.active {
+  background-color: #666;
+}

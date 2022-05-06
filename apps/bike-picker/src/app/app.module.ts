@@ -10,6 +10,12 @@ import { HomeComponent } from './components/home/home.component';
 import { PickerComponent } from './components/picker/picker.component';
 import { StatusComponent } from './components/status/status.component';
 import { SummaryComponent } from './components/summary/summary.component';
+import { EquipmentComponent } from './components/form/equipment/equipment.component';
+import { BreakComponent } from './components/form/break/break.component';
+import { EngineComponent } from './components/form/engine/engine.component';
+import { WheelsComponent } from './components/form/wheels/wheels.component';
+import { FrameComponent } from './components/form/frame/frame.component';
+import { TabsComponent } from './components/tabs/tabs.component';
 
 @NgModule({
   declarations: [
@@ -20,6 +26,12 @@ import { SummaryComponent } from './components/summary/summary.component';
     PickerComponent,
     SummaryComponent,
     StatusComponent,
+    EquipmentComponent,
+    BreakComponent,
+    EngineComponent,
+    WheelsComponent,
+    FrameComponent,
+    TabsComponent,
   ],
   imports: [
     BrowserModule,

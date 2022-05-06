@@ -1,0 +1,15 @@
+<label for="frameMaterial">Material</label>
+<select name="frameMaterial" [(ngModel)]="bike.frameMaterial">
+  <option value="aluminum">Aluminum</option>
+  <option value="carbon">Carbon</option>
+</select>
+<label for="frameColor">Color</label>
+<input name="frameColor" type="color" [(ngModel)]="bike.frameColor" />
+<label for="frameThickness">Frame thickness</label>
+<input
+  type="range"
+  name="frameThickness"
+  [(ngModel)]="bike.frameThickness"
+  min="10"
+  max="30"
+/>

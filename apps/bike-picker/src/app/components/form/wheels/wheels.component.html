@@ -1,0 +1,24 @@
+<div class="flex-column-layout">
+  <div class="column">
+    <h3>Rear</h3>
+    <label for="rearWheelColor">Color</label>
+    <input name="rearWheelColor" type="color" [(ngModel)]="bike.rearWheelColor" />
+    <label for="rearWheelSize">Size</label>
+    <input name="rearWheelSize" type="number" [(ngModel)]="bike.rearWheelSize" />
+  </div>
+  <div class="column">
+    <h3>Front</h3>
+    <label for="frontWheelColor">Color</label>
+    <input
+      name="frontWheelColor"
+      type="color"
+      [(ngModel)]="bike.frontWheelColor"
+    />
+    <label for="frontWheelSize">Size</label>
+    <input
+      name="frontWheelSize"
+      type="number"
+      [(ngModel)]="bike.frontWheelSize"
+    />
+  </div>
+</div>
