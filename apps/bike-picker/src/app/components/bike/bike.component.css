@@ -1,0 +1,24 @@
+:host {
+  display: block;
+  background-color: #333;
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(255, 255, 255, 0.1);
+}
+
+.summary {
+  display: flex;
+  gap: 12px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+output {
+  border: 1px solid #666;
+  color: white;
+  border-radius: 3px;
+  padding: 10px;
+  box-sizing: border-box;
+  min-width: 120px;
+}

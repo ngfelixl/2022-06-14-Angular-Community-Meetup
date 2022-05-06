@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 752 468" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-39.4857,-123.609)">
+        <g id="rearWheel">
+            <g id="spokes" transform="matrix(-0.0781685,-0.795926,0.807656,-0.0793205,-121.949,637.947)">
+                <g transform="matrix(1.25038,0,0,1.23222,-609.224,-139.142)">
+                    <path d="M648.055,438.988L693.09,342.381" style="fill:none;stroke:rgb(202,202,202);stroke-width:3.5px;"/>
+                </g>
+                <g transform="matrix(1.25038,0,0,1.23222,-609.224,-139.142)">
+                    <path d="M648.055,438.988L598.663,545.763" style="fill:none;stroke:rgb(202,202,202);stroke-width:3.5px;"/>
+                </g>
+                <g transform="matrix(1.25038,0,0,1.23222,-609.224,-139.142)">
+                    <path d="M648.055,438.988L745.388,493.465" style="fill:none;stroke:rgb(202,202,202);stroke-width:3.5px;"/>
+                </g>
+                <g transform="matrix(1.25038,0,0,1.23222,-609.224,-139.142)">
+                    <path d="M648.055,438.988L550.723,379.426" style="fill:none;stroke:rgb(202,202,202);stroke-width:3.5px;"/>
+                </g>
+            </g>
+            <g id="wheel" transform="matrix(0.799755,0,0,0.811541,35.4325,114.372)">
+                <clipPath id="_clip1">
+                    <path d="M389.845,211.048L0.838,211.048L0.838,594.406L389.845,594.406L389.845,211.048ZM195.341,274.941C266.908,274.941 325.011,332.2 325.011,402.727C325.011,473.254 266.908,530.513 195.341,530.513C123.775,530.513 65.672,473.254 65.672,402.727C65.672,332.2 123.775,274.941 195.341,274.941Z"/>
+                </clipPath>
+                <g clip-path="url(#_clip1)">
+                    <ellipse cx="192.626" cy="402.619" rx="175.054" ry="172.511" style="fill:rgb(66,66,66);stroke:black;stroke-width:24.82px;"/>
+                </g>
+            </g>
+        </g>
+        <g id="frontWheel">
+            <g id="spokes1" serif:id="spokes" transform="matrix(0.72348,0.34086,-0.345883,0.734142,643.708,75.9585)">
+                <g transform="matrix(1.25038,0,0,1.23222,-609.224,-139.142)">
+                    <path d="M648.055,438.988L693.09,342.381" style="fill:none;stroke:rgb(202,202,202);stroke-width:3.5px;"/>
+                </g>
+                <g transform="matrix(1.25038,0,0,1.23222,-609.224,-139.142)">
+                    <path d="M648.055,438.988L598.663,545.763" style="fill:none;stroke:rgb(202,202,202);stroke-width:3.5px;"/>
+                </g>
+                <g transform="matrix(1.25038,0,0,1.23222,-609.224,-139.142)">
+                    <path d="M648.055,438.988L745.388,493.465" style="fill:none;stroke:rgb(202,202,202);stroke-width:3.5px;"/>
+                </g>
+                <g transform="matrix(1.25038,0,0,1.23222,-609.224,-139.142)">
+                    <path d="M648.055,438.988L550.723,379.426" style="fill:none;stroke:rgb(202,202,202);stroke-width:3.5px;"/>
+                </g>
+                <g transform="matrix(1.25038,0,5.55112e-17,1.23222,-609.224,-139.142)">
+                    <path d="M648.055,438.988L550.723,379.426" style="fill:none;stroke:rgb(202,202,202);stroke-width:3.5px;"/>
+                </g>
+            </g>
+            <g id="wheel1" serif:id="wheel" transform="matrix(0.799755,0,0,0.811541,487.23,112.92)">
+                <clipPath id="_clip2">
+                    <path d="M389.845,211.048L0.838,211.048L0.838,594.406L389.845,594.406L389.845,211.048ZM195.341,274.941C266.908,274.941 325.011,332.2 325.011,402.727C325.011,473.254 266.908,530.513 195.341,530.513C123.775,530.513 65.672,473.254 65.672,402.727C65.672,332.2 123.775,274.941 195.341,274.941Z"/>
+                </clipPath>
+                <g clip-path="url(#_clip2)">
+                    <ellipse cx="192.626" cy="402.619" rx="175.054" ry="172.511" style="fill:rgb(66,66,66);stroke:black;stroke-width:24.82px;"/>
+                </g>
+            </g>
+        </g>
+        <g id="pedals">
+            <g transform="matrix(0.26926,0.234628,-0.186251,0.213742,388.377,345.442)">
+                <rect x="379.301" y="516.86" width="20.338" height="39.224" style="fill:rgb(3,3,3);"/>
+            </g>
+            <g transform="matrix(0.753927,0.656958,-0.656958,0.753927,466.615,-125.455)">
+                <path d="M399.639,526.944L379.301,526.944L379.301,556.084L399.639,556.084L399.639,526.944ZM387.7,530.382L382.624,530.382L382.624,552.475L387.7,552.475L387.7,530.382ZM396.393,530.267L391.316,530.267L391.316,552.359L396.393,552.359L396.393,530.267Z" style="fill:rgb(3,3,3);"/>
+            </g>
+            <g transform="matrix(0.273941,0.229145,-0.181899,0.217458,413.858,347.956)">
+                <rect x="379.301" y="516.86" width="20.338" height="39.224" style="fill:rgb(3,3,3);"/>
+            </g>
+            <g transform="matrix(0.767034,0.641606,-0.641606,0.767034,482.575,-124.424)">
+                <path d="M399.639,526.944L379.301,526.944L379.301,556.084L399.639,556.084L399.639,526.944ZM387.7,530.382L382.624,530.382L382.624,552.475L387.7,552.475L387.7,530.382ZM396.393,530.267L391.316,530.267L391.316,552.359L396.393,552.359L396.393,530.267Z" style="fill:rgb(3,3,3);"/>
+            </g>
+        </g>
+        <g id="light">
+            <g transform="matrix(1,0,0,1,-11.6263,-3.72041)">
+                <path d="M602.253,233.194C601.57,220.9 627.461,221.733 627.461,221.733L627.461,242.224C627.461,242.224 602.936,245.488 602.253,233.194Z"/>
+            </g>
+            <path d="M244.507,362.478L223.759,354.475L226.195,386.449L244.507,362.478Z"/>
+            <g transform="matrix(0.82914,0,0,0.977311,38.4117,8.77321)">
+                <path d="M223.547,353.725L220.408,356.027L222.772,379.447L225.996,380.941L223.547,353.725Z" style="fill:rgb(255,1,1);"/>
+            </g>
+            <path d="M615.835,218.014L617.347,219.135L617.243,237.153L615.835,238.503L615.835,218.014Z" style="fill:rgb(255,251,201);"/>
+        </g>
+        <g id="breaks">
+            <g id="wheelBreak">
+                <g id="wheelBreakFront" transform="matrix(1.04115,-0.332456,0.608371,1.90523,-203.922,-108.526)">
+                    <rect x="573.357" y="328.964" width="37.297" height="6.87" style="fill:rgb(134,134,134);"/>
+                </g>
+                <g id="wheelBreakBack" transform="matrix(0.867537,0.664752,-1.21645,1.58753,151.616,-574.417)">
+                    <rect x="573.357" y="328.964" width="37.297" height="6.87" style="fill:rgb(134,134,134);"/>
+                </g>
+            </g>
+            <g id="diskBreak">
+                <g id="diskBreakFront" transform="matrix(1,0,0,1.12329,-5.08454,-71.5362)">
+                    <ellipse cx="649.216" cy="455.817" rx="47.109" ry="41.939" style="fill:rgb(134,134,134);"/>
+                </g>
+                <g id="diskBreakBack" transform="matrix(1,0,0,1.12329,-457.306,-69.9847)">
+                    <ellipse cx="649.216" cy="455.817" rx="47.109" ry="41.939" style="fill:rgb(134,134,134);"/>
+                </g>
+            </g>
+        </g>
+        <g id="saddle">
+            <g transform="matrix(0.988187,-0.000800883,-0.000800883,0.999946,3.16203,0.214375)">
+                <path d="M255.422,180.712L342.915,182.882" style="fill:none;stroke:rgb(163,163,163);stroke-width:13.09px;"/>
+            </g>
+            <path d="M325.542,257.338L296.627,187.941" style="fill:none;stroke:rgb(163,163,163);stroke-width:13px;"/>
+        </g>
+        <g id="handlebars">
+            <path id="city" d="M577.831,212.519L566.988,134.447C566.988,134.447 554.924,131.551 550.509,130.492C549.462,130.24 548.369,130.239 547.321,130.489C539.261,132.408 503.373,140.953 503.373,140.953" style="fill:none;stroke:rgb(163,163,163);stroke-width:13px;"/>
+            <path id="road" d="M580.5,212.221L574.476,165.844C574.476,165.844 628.759,153.487 628.8,175.109C628.834,193.812 612.737,197.404 594.668,199.176" style="fill:none;stroke:rgb(163,163,163);stroke-width:13px;"/>
+            <path id="mountain" d="M583.172,214.13L575.32,177.815L604.765,171.926" style="fill:none;stroke:rgb(163,163,163);stroke-width:13px;"/>
+        </g>
+        <g id="engineBack">
+            <ellipse id="ringGearBack" cx="191.887" cy="442.122" rx="28.441" ry="27.276" style="fill:rgb(226,226,226);"/>
+            <path id="chain" d="M400.302,406.92C400.302,406.92 212.402,414.38 190.488,414.846C168.574,415.313 164.378,432.098 164.378,440.49C164.378,448.883 171.838,465.202 189.556,465.668C207.273,466.134 208.672,470.33 206.341,474.06C204.009,477.79 162.979,493.643 173.237,499.238C183.494,504.833 356.474,497.839 400.302,493.643C444.129,489.447 445.994,457.742 445.062,448.883C444.129,440.024 439.001,405.521 400.302,406.92Z" style="fill:none;stroke:rgb(206,206,206);stroke-width:3.5px;"/>
+            <path id="ejector" d="M189.038,444.901L171.803,462.711L202.826,470.179L176.973,497.756" style="fill:none;stroke:black;stroke-width:15px;"/>
+        </g>
+        <path id="frame" d="M580.723,211.073L325.542,257.338L401.446,446.013L325.542,257.338L188.193,445.29L401.446,446.013L580.723,211.073L646.475,440.876" style="fill:none;stroke:black;stroke-width:15px;"/>
+        <g id="engineFront">
+            <g id="ringGearFront" transform="matrix(0.872832,0,0,0.9,54.6178,48.4542)">
+                <ellipse cx="397.87" cy="447.199" rx="49.695" ry="48.833"/>
+            </g>
+            <path d="M350.238,409.034C369.763,408.46 369.972,408.002 401.672,406.902C433.73,405.79 445.153,432.659 445.769,449.165C446.169,459.883 439.681,492.459 408.357,493.907C376.595,495.376 359.203,496.435 349.799,497.009" style="fill:none;stroke:rgb(205,205,205);stroke-width:3.5px;"/>
+            <path id="pedal" d="M404.477,451.221L464.8,472.477" style="fill:none;stroke:black;stroke-width:20px;"/>
+            <g transform="matrix(0.942735,0.333541,-0.333541,0.942735,171.891,-117.612)">
+                <text x="422.053px" y="462.564px" style="font-family:'Arial-ItalicMT', 'Arial', sans-serif;font-style:italic;font-size:12px;fill:rgb(193,193,193);">NG-ACE</text>
+            </g>
+        </g>
+    </g>
+</svg>

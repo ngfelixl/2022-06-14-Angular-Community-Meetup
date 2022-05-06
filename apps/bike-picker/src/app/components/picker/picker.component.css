@@ -1,0 +1,23 @@
+:host {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 24px;
+  box-sizing: border-box;
+}
+
+:host > * {
+  flex: 1 1 0;
+}
+
+.preview {
+  box-sizing: border-box;
+  position: sticky;
+  top: 24px;
+}
+
+.actions {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}

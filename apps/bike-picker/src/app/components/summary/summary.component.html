@@ -1,0 +1,16 @@
+<h1>Summary</h1>
+
+<p>Awesome! Your bike has been configured</p>
+
+<section class="discount" *ngIf="bike?.frameColor === '#dd1b16'">
+  🎉🎉🎉 Congratulations 🎉🎉🎉<br />You have picked the Angular icon color for
+  your frame. You'll get a 100% discount.
+</section>
+
+<app-bike *ngIf="bike" [bike]="bike"></app-bike>
+
+<section>
+  <pre>{{ bike | json }}</pre>
+</section>
+
+<button>Buy now</button>

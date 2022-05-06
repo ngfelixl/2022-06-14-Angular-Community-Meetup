@@ -87,70 +87,12 @@
           "builder": "@nrwl/jest:jest",
           "outputs": ["coverage/apps/bike-picker"],
           "options": {
-            "jestConfig": "apps/bike-picker/jest.config.js",
+            "jestConfig": "apps/bike-picker/jest.config.ts",
             "passWithNoTests": true
           }
         }
-      }
-    },
-    "bike-picker-e2e": {
-      "root": "apps/bike-picker-e2e",
-      "sourceRoot": "apps/bike-picker-e2e/src",
-      "projectType": "application",
-      "architect": {
-        "e2e": {
-          "builder": "@nrwl/cypress:cypress",
-          "options": {
-            "cypressConfig": "apps/bike-picker-e2e/cypress.json",
-            "devServerTarget": "bike-picker:serve:development",
-            "tsConfig": "apps/bike-picker-e2e/tsconfig.json"
-          },
-          "configurations": {
-            "production": {
-              "devServerTarget": "bike-picker:serve:production"
-            }
-          }
-        },
-        "lint": {
-          "builder": "@nrwl/linter:eslint",
-          "outputs": ["{options.outputFile}"],
-          "options": {
-            "lintFilePatterns": ["apps/bike-picker-e2e/**/*.{js,ts}"]
-          }
-        }
-      }
-    }
-  },
-  "cli": {
-    "defaultCollection": "@nrwl/angular",
-    "packageManager": "npm"
-  },
-  "schematics": {
-    "@nrwl/angular": {
-      "application": {
-        "linter": "eslint"
       },
-      "library": {
-        "linter": "eslint"
-      },
-      "storybook-configuration": {
-        "linter": "eslint"
-      }
-    },
-    "@nrwl/angular:application": {
-      "style": "css",
-      "linter": "eslint",
-      "unitTestRunner": "jest",
-      "e2eTestRunner": "cypress"
-    },
-    "@nrwl/angular:library": {
-      "style": "css",
-      "linter": "eslint",
-      "unitTestRunner": "jest"
-    },
-    "@nrwl/angular:component": {
-      "style": "css"
+      "tags": []
     }
-  },
-  "defaultProject": "bike-picker"
+  }
 }
